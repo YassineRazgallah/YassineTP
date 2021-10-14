@@ -1,4 +1,0 @@
-#Thu Oct 14 01:15:55 GMT+01:00 2021
-base.0=C\:\\Users\\yassine\\Desktop\\android-fundamentals-exycodelabs-master\\HelloToast\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
